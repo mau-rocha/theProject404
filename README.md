@@ -4,16 +4,21 @@
 
   <h2>Screenshot</h2>
 </div>
-<p><em>Abaixo, uma screenshot demonstrando basicamente o layout final do projeto</em></p>
+<p><em>Abaixo, uma screenshot, demonstrando basicamente o layout final do projeto</em></p>
 <img src="./assets/screenshot.png" width="1500px">
 <div>
 
-  <h2>ícone Header</h2>
+  <h2>ícone</h2>
   
-<p><em>O ícone a seguir eu fiz rapidamente utilizando Photoshop, utilizando a mesma paleta de cores da imagem principal da página</em></p>
+<p><em>O ícone do site (acima) eu fiz rapidamente utilizando Photoshop, e usando a mesma paleta de cores da imagem principal da página</em></p>
 <img src="./assets/404-logo.png" width="1000"px>
   
   <h2>Isso é tudo.</h2>
   <p>Obrigado!</p>
+  
+  
+  <h2>Teste</h2>
+ <a href="https://mau-rocha.github.io/theProject404/">Visualizar Projeto</a>
+  
   
   
